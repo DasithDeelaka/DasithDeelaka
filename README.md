@@ -9,7 +9,7 @@
 - 😎 You can check my repositories at my account
 - 🤔 I’m looking for help with **Statistics,** cause I'm currently studying **Machine Learning**
 - 💬 Ask me about ... just contact me😉
-- 📫 You can contact me at [My Website](https://dasithdeelaka.netlify.app/) of [LinkedIn](https://www.linkedin.com/in/dasith-deelaka-1a0019160/)
+- 📫 You can contact me at [My Website](https://dasithdeelaka.netlify.app/) or [LinkedIn](https://www.linkedin.com/in/dasith-deelaka-1a0019160/)
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
