@@ -1,5 +1,5 @@
 ### Hi there, I'm Dasith Deelaka 😍👋
-<p align="left"><img src="https://komarev.com/ghpvc/?username=DasithDeelaka&label=Profile%20views&color=0e75b6&style=plastic" alt="DasithDeelaka" /><br>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=DasithDeelaka&label=Profile%20views&color=0e75b6&style=plastic" alt="DasithDeelaka" /></br>
 
 - 🔭 I’m currently an **Computer Science** undergraduate at **Uva Wellassa University of Sri Lanka**
 - 🌱 I’m currently learning **Python** related stuffs and **Machine learning**
@@ -10,6 +10,12 @@
 - 🤔 I’m looking for help with **Statistics,** cause I'm currently studying **Machine Learning**
 - 💬 Ask me about ... just contact me😉
 - 📫 You can contact me at [My Website](https://dasithdeelaka.netlify.app/) or [LinkedIn](https://www.linkedin.com/in/dasith-deelaka-1a0019160/)
+
+<br/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DasithDeelaka&show_icons=true&theme=algolia&line_height=35" />
+  <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasithDeelaka&count_private=true&theme=algolia">
+</p>
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,5 +37,4 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br/>
+</br>
