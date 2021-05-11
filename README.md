@@ -13,7 +13,7 @@
 
 <br/>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DasithDeelaka&show_icons=true&theme=algolia&line_height=35" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DasithDeelaka&show_icons=true&theme=algolia&line_height=32" />
   <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasithDeelaka&count_private=true&theme=algolia">
 </p>
 
