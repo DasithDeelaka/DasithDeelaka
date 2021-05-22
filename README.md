@@ -11,10 +11,9 @@
 - 💬 Ask me about ... just contact me😉
 - 📫 You can contact me at [My Website](https://dasithdeelaka.netlify.app/) or [LinkedIn](https://www.linkedin.com/in/dasith-deelaka-1a0019160/)
 
-<br/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DasithDeelaka&show_icons=true&theme=algolia&line_height=30" />
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasithDeelaka&count_private=true&theme=algolia">
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasithDeelaka&count_private=true&theme=algolia">
 </p>
 
 ### Languages and Tools:
