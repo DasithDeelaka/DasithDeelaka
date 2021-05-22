@@ -14,7 +14,7 @@
 <br/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DasithDeelaka&show_icons=true&theme=algolia&line_height=30" />
-  <img width="28.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasithDeelaka&count_private=true&theme=algolia">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasithDeelaka&count_private=true&theme=algolia">
 </p>
 
 ### Languages and Tools:
